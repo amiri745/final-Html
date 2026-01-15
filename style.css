@@ -1,0 +1,109 @@
+*{
+   padding: 0px;
+    margin: 0px; 
+}
+
+
+body{
+    background-color: rgb(93, 189, 189);
+    
+}
+
+
+
+.head{
+    text-align: center;
+    background-color: rgb(37, 129, 168);
+    color: aliceblue;
+    height: 80px;
+    
+}
+.paragraph p{
+    text-align: center;
+    font-size: larger;
+}
+.header a{
+    border: 2px ;
+    color: rgb(15, 15, 15);
+    background-color: rgb(111, 240, 240);
+    font-size: larger;
+    ;
+    
+
+}
+nav a{
+   margin-bottom: 200px;
+   background-color: rgb(37, 129, 168) ;
+}
+
+.Quick{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.img{
+    justify-content: center;
+}
+form{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+label{
+    display: flex;
+    margin-left: 480px;
+    gap: 10px;
+    
+
+}
+input{
+    display: flex;
+width: 400px;
+    height: 50px;
+    margin-left: 480px;
+}
+button{
+    background-color: rgb(37, 129, 168);
+    font-size: 22px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 2px;
+}
+.self{
+    text-align: center;
+    font-size: larger;
+    margin-top: 10px;
+}
+ .favorits{
+    margin-left: 20px;
+    
+ }
+
+ .favorit-books{
+    margin-top: 10px;
+ }
+
+ .favorit-foods{
+    margin-top: 10px;
+ }
+
+ .favorit-musics{
+    margin-top: 10px;
+ }
+
+ .photo{
+    text-align: center;
+    margin-top: 10px;
+ }
+ .footer{
+    background-color: rgb(41, 40, 40);
+
+ }
+
+ .footer p{
+    text-align: center;
+    font-size: larger;
+    height: 50px;
+ }
+
